@@ -14,7 +14,7 @@
 		);
 	 */
 
-		$homeLinks[] = array(
+	/*	$homeLinks[] = array(
 			'url' => '//bigprof.com/appgini/', 
 			'icon' => '//bigprof.com/appgini3D.png', 
 			'title' => 'AppGini homepage', 
@@ -36,3 +36,4 @@
 			'link_classes' => 'btn-primary',
 			'table_group' => 'Sales'
 		);
+		*/
